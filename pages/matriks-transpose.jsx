@@ -66,7 +66,7 @@ function Matriks2x2() {
                   Anggota Matriks A
                 </label> 
 
-                <div className="flex flex-wrap gap-2">
+                <div className="flex flex-wrap">
                   <div className="">
                     <input 
                     ref={mat11}
@@ -75,20 +75,20 @@ function Matriks2x2() {
                   <div className="">
                     <input
                       ref={mat12}
-                     className="appearance-none block lg:w-full md:w-70 w-20 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                     className="appearance-none block lg:w-full md:w-70 w-20 mx-1 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                 </div>
 
-                <div className="flex flex-wrap mt-2 gap-2">
+                <div className="flex flex-wrap mt-2">
                   <div className="">
                     <input
                     ref={mat21}
-                    className="appearance-none block lg:w-full md:w-70 w-20 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none block lg:w-full md:w-70 w-20 mx-1 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input 
                     ref={mat22}
-                    className="appearance-none block lg:w-full md:w-70 w-20 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none block lg:w-full md:w-70 w-20 mx-1 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                 </div>
               </div>
@@ -151,57 +151,57 @@ function Matriks3x3() {
                   Anggota Matriks A
                 </label> 
 
-                <div className="flex flex-wrap gap-2">
+                <div className="flex flex-wrap">
                   <div className="">
                     <input 
                     ref={mat11}
-                    className="appearance-none md:w-50 sm:w-50 w-20 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none md:w-50 sm:w-50 w-20 mx-1 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input
                       ref={mat12}
-                     className="appearance-none md:w-50 sm:w-50 w-20 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                     className="appearance-none md:w-50 sm:w-50 w-20 mx-1 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input
                       ref={mat13}
-                     className="appearance-none md:w-50 sm:w-50 w-20 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                     className="appearance-none md:w-50 sm:w-50 w-20 mx-1 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                 </div>
 
-                <div className="flex flex-wrap mt-2 gap-2">
+                <div className="flex flex-wrap mt-2">
                   <div className="">
                     <input
                     ref={mat21}
-                    className="appearance-none md:w-50 sm:w-50 w-20 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none md:w-50 sm:w-50 w-20 mx-1 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input 
                     ref={mat22}
-                    className="appearance-none md:w-50 sm:w-50 w-20 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none md:w-50 sm:w-50 w-20 mx-1 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input 
                     ref={mat23}
-                    className="appearance-none md:w-50 sm:w-50 w-20 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none md:w-50 sm:w-50 w-20 mx-1 block lg:w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                 </div>
 
-                <div className="flex flex-wrap mt-2 gap-2">
+                <div className="flex flex-wrap mt-2">
                   <div className="">
                     <input
                     ref={mat31}
-                    className="appearance-none block md:w-50 lg:w-full w-20 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none block md:w-50 lg:w-full w-20 mx-1 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input 
                     ref={mat32}
-                    className="appearance-none block md:w-50 lg:w-full w-20 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none block md:w-50 lg:w-full w-20 mx-1 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input 
                     ref={mat33}
-                    className="appearance-none block md:w-50 lg:w-full w-20 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none block md:w-50 lg:w-full w-20 mx-1 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
               </div>
               </div>
