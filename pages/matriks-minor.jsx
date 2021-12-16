@@ -1,3 +1,4 @@
+import Link from "next/dist/client/link";
 export default function MatriksMinor() {
     return (
         <div className="flex justify-center min-h-screen items-center">
