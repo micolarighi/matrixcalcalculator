@@ -83,7 +83,7 @@ function Matriks2x2() {
                   <div className="">
                     <input
                     ref={mat21}
-                    className="appearance-none block lg:w-full md:w-70 w-20 mx-1 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
+                    className="appearance-none block lg:w-full md:w-70 w-20 bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-last-name" type="text" />
                   </div>
                   <div className="">
                     <input 
